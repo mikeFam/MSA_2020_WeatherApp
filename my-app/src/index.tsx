@@ -6,10 +6,10 @@ import store from './store';
 import '../node_modules/bulma/css/bulma.min.css';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <Provider store={store}>
-      <App />
-    </Provider>
-  </React.StrictMode>,
-  document.getElementById('root')
+    <React.StrictMode>
+        <Provider store={store}>
+        <App />
+        </Provider>
+    </React.StrictMode>,
+    document.getElementById('root')
 );
