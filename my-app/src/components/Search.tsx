@@ -60,16 +60,6 @@ const Search: FC<SearchProps> = ({ title }) => {
                         value={city}
                         onChange={changeHandler}
                         />
-                        {/* <TextField
-                        required
-                        id="outlined-required"
-                        label="City Name"
-                        variant="outlined"
-                        error={city === ""}
-                        // onClick={() => setHasFocus(true)}
-                        value={city}
-                        onChange={e => changeHandler}
-                        /> */}
                         <Button
                         variant="contained"
                         color="secondary"
