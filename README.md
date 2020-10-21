@@ -1,6 +1,7 @@
 # MSA_2020_WeatherApp
 This Web application was made for the submission of Phase 1 in the MSA program in 2020.
 
+![](images/UI.PNG)
 
 ## Description
 This Web application inform the user of the weather forecast in different cities. This is done by promting the user to input the city name into the search bar and press 'enter' or click the 'search' button. The weather data such as temperature, humidity, pressure, wind speed and a short description corresponding to the result of the search will appear. 
@@ -24,9 +25,6 @@ In the azure-pipelines.yml, my build pipeline is triggered each time a commit is
 **Microsoft Learn Personal info, username and URL: https://docs.microsoft.com/en-us/users/MichaelPham-6558**
 
 **The screen shots of the Microsoft Learn modules and be found in the '\ML screenshots\' folder** 
-
-
-
 
 
 
